@@ -13,12 +13,20 @@ The program is straightforward to deploy and has no special virtual environment 
 
 ## Program Functionality
 The UI Platform is displayed as follows. There are default values entered in all fields upon the program starting for quick use. 
-All inputs have rigorous error handling in place. 
+All inputs have rigorous error handling in place. The generated data is visualised by a bar graph.
 
-The generated data is visualised by a bar graph.
+![](https://github.com/suvanshm/SortAlgosVisualiser/blob/master/Screenshots/PreSort.JPG)
 
-Upon starting the visualisation, 
-comparisons and pointers are highlighted with different colours to help the user better understand the flow of the algorithm.
+Upon starting the visualisation, comparisons and pointers are highlighted with different colours to help the user better understand the flow of the algorithm.
+
+![](https://github.com/suvanshm/SortAlgosVisualiser/blob/master/Screenshots/QuickSort.JPG)
+
+![](https://github.com/suvanshm/SortAlgosVisualiser/blob/master/Screenshots/MergeSort.JPG)
+
+Once sorted, the bars again change to green.
+
+![](https://github.com/suvanshm/SortAlgosVisualiser/blob/master/Screenshots/PostSort.JPG)
+
 
 
 
